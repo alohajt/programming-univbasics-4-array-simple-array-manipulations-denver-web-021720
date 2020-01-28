@@ -4,6 +4,7 @@ end
 
 def using_unshift(arr,str)
   arr.unshift(str)
+  arr
 end
  
 def using_pop(arr)
@@ -20,6 +21,7 @@ end
 
 def shift_with_args(arr)
   arr.shift(2)
+  arr
 end
 
 def using_concat(a, b)
