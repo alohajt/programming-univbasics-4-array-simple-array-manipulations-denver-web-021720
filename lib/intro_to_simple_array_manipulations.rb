@@ -25,3 +25,13 @@ end
 def using_concat(a, b)
   a.concat(b)
 end
+
+def using_insert(arr, ele)
+  arr.insert(ele)
+end
+
+def shift_with_args(Array)
+  Array.uniq
+end
+
+def 
