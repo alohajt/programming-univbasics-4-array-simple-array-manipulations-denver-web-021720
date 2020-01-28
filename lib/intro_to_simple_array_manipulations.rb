@@ -29,7 +29,8 @@ def using_concat(a, b)
 end
 
 def using_insert(3, ele)
-  Array.insert(ele)
+  arr.insert(3,ele)
+  arr
 end
 
 def shift_with_args(arr)
