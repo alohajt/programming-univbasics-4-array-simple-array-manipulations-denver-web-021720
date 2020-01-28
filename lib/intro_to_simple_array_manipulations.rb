@@ -33,8 +33,8 @@ def using_insert(arr, ele)
   arr
 end
 
-def shift_with_args(arr)
-  arr.uniq
+def using_uniq(arr)
+  arr.uniq()
 end
 
 def using_flatten(arr)
