@@ -34,4 +34,5 @@ def shift_with_args(Array)
   Array.uniq
 end
 
-def 
+def using_flatten(arr)
+  
