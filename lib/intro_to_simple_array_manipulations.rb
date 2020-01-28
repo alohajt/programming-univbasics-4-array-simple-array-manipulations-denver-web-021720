@@ -41,3 +41,12 @@ def using_flatten(arr)
   arr.flatten()
   
 end
+
+def using_delete(arr, str)
+  arr.delete(str)
+end
+
+def using_delete_at(arr, int)
+  arr.delete(int)
+end
+
