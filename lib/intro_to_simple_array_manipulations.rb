@@ -35,5 +35,5 @@ def shift_with_args(arr)
 end
 
 def using_flatten(arr)
-  Array.flatten(arr)
+  arr.flatten
 end
